@@ -35,6 +35,6 @@ Technologies Used:
 <img width="1438" alt="Screenshot 2023-06-23 at 8 55 04 PM" src="https://github.com/tanishq-1012/BankistWebsite/assets/96770081/5ab15b04-c6d3-491f-8d6c-a5e0803ec3fd">
 
 
-Feel free to customize and modify the code to suit your needs and create your own unique banking website.
+Feel free to customize and modify the code to suit your needs and create your own unique banking website😎.
 
-Enjoy exploring Bankist!
+Enjoy exploring Bankist✌️!
